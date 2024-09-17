@@ -2,7 +2,7 @@ public class App {
     public static void main(String[] args) throws Exception {
 
 
-        int ika = 65;
+        int ika = 56; // ikä muutettu 
 
 
         // Tulostusehdot
