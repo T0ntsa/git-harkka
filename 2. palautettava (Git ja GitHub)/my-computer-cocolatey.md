@@ -2,8 +2,10 @@
 
 # choco install powershell-core git vscode putty greenshot notepadplusplus winscp 7zip paint.net windirstat zoom sudo vmrc vmware-horizon-client github-desktop obs-studio docker-desktop google-drive-file-stream googlechrome curl powertoys -y
 
-![Hostname](2024-09-21-11-30-42.png)
+![Hostname](2024-09-21-12-09-26.png)
+
 ![T0ntsa-ssh authkey](2024-09-21-12-05-27.png)
+
 ![Public ssh](2024-09-21-12-06-31.png)
 ---
 title: Basic Programs - Windows
